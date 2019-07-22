@@ -25,3 +25,8 @@ Realizar o comando cucumber
 
 https://github.com/teamcapybara/capybara
 https://rubygems.org/?locale=pt-BR
+
+## Observação
+
+Percebi que em certos momentos a página da viajanet, abre com a data do dia preenchida e isso ocasionava erros no teste.
+Caso a página abra com a data atual rode o teste novamente.
