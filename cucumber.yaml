@@ -1,0 +1,3 @@
+---
+  default: --format progress -p html 
+  html: --format html --out=log/features.html
